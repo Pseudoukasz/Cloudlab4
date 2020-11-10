@@ -7,7 +7,7 @@
 - utowrzyć plik index.html 
 dodać do niego nasz kod źródłowy
 
-- utowrzyć plik Dockerfile**Bez żadnego rozszerzenia**
+- utowrzyć plik Dockerfile **Bez żadnego rozszerzenia**
 
 dodać kod: 
 ```
