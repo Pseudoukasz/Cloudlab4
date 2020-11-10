@@ -8,7 +8,9 @@
 dodać do niego nasz kod źródłowy
 
 - utowrzyć plik Dockerfile
+
 **Bez żadnego rozszerzenia**
+
 dodać kod: 
 ```
 From nginx:alpine
