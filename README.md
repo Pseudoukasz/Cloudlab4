@@ -13,7 +13,6 @@ dodać kod:
 ```
 From nginx:alpine
 Copy . /usr/share/nginx/html
-
 ```
 #### 3. zbudować obraz
 
