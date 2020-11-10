@@ -11,7 +11,7 @@ dodać do niego nasz kod źródłowy
 **Bez żadnego rozszerzenia**
 dodać kod: 
 ```
->From nginx:alpine
+From nginx:alpine
 Copy . /usr/share/nginx/html
 
 ```
